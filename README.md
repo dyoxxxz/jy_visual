@@ -230,7 +230,7 @@ Stove: White, Silver, Red, Black
 Refrigerator: White, Silver, Red, Black
 
 ### 매출 분석
-가장 높은 매출을 기록한 제품은 **Hoover Stove (Black)**으로 약 36M.
-**KitchenAid Stove (Black)**도 높은 매출을 기록.
-**Hoover Refrigerator (White)**와 **KitchenAid Refrigerator (Silver)**도 상당한 매출 기록.
+가장 높은 매출을 기록한 제품은 **Hoover Stove (Black)** 으로 약 36M.
+**KitchenAid Stove (Black)** 도 높은 매출을 기록.
+**Hoover Refrigerator (White)** 와 **KitchenAid Refrigerator (Silver)** 도 상당한 매출 기록.
 Coffee Grinder와 Blender는 상대적으로 낮은 매출.
