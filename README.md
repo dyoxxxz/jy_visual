@@ -217,17 +217,17 @@
 제품 카테고리: 모두 가전제품
 
 ### 브랜드 및 제품명:
-KitchenAid:
-Toaster: White, Silver, Red, Black
-Stove: White, Silver, Red, Black
-Refrigerator: White, Silver, Red
-Microwave: White, Silver, Red, Black
-Coffee Grinder: 여러 색상
-Blender: Silver, Black
-Hoover:
-Toaster: White, Silver, Red, Black
-Stove: White, Silver, Red, Black
-Refrigerator: White, Silver, Red, Black
+- KitchenAid:
+- Toaster: White, Silver, Red, Black
+- Stove: White, Silver, Red, Black
+- Refrigerator: White, Silver, Red
+- Microwave: White, Silver, Red, Black
+- Coffee Grinder: 여러 색상
+- Blender: Silver, Black
+- Hoover:
+- Toaster: White, Silver, Red, Black
+- Stove: White, Silver, Red, Black
+- Refrigerator: White, Silver, Red, Black
 
 ### 매출 분석
 가장 높은 매출을 기록한 제품은 **Hoover Stove (Black)** 으로 약 36M.
