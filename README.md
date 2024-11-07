@@ -207,3 +207,30 @@
 
 ### 결론
 매년 하반기에 매출이 급증하는 경향이 있으며, 특히 **12월**은 모든 연도에서 가장 높은 매출을 기록하는 시기입니다. 또한 **2019년**은 전반적으로 가장 높은 매출을 기록한 해입니다.
+
+# 8. 제품명 계층 그래프 
+
+![계층 그래프](제품명계층그래프.png)
+
+## 이 그래프는 다양한 가전제품의 매출을 나타내는 막대 그래프입니다. 아래는 그래프의 내용을 해석한 것입니다:
+제품별 매출 분석
+제품 카테고리: 모두 가전제품
+
+### 브랜드 및 제품명:
+KitchenAid:
+Toaster: White, Silver, Red, Black
+Stove: White, Silver, Red, Black
+Refrigerator: White, Silver, Red
+Microwave: White, Silver, Red, Black
+Coffee Grinder: 여러 색상
+Blender: Silver, Black
+Hoover:
+Toaster: White, Silver, Red, Black
+Stove: White, Silver, Red, Black
+Refrigerator: White, Silver, Red, Black
+
+### 매출 분석
+가장 높은 매출을 기록한 제품은 **Hoover Stove (Black)**으로 약 36M.
+**KitchenAid Stove (Black)**도 높은 매출을 기록.
+**Hoover Refrigerator (White)**와 **KitchenAid Refrigerator (Silver)**도 상당한 매출 기록.
+Coffee Grinder와 Blender는 상대적으로 낮은 매출.
