@@ -235,3 +235,9 @@
 **KitchenAid Stove (Black)** 도 높은 매출을 기록.
 **Hoover Refrigerator (White)** 와 **KitchenAid Refrigerator (Silver)** 도 상당한 매출 기록.
 Coffee Grinder와 Blender는 상대적으로 낮은 매출.
+
+# 9. 지역 별 계층 그래프
+
+![계층 그래프](지역계층만들기.png)
+
+이 그래프는 전국의 매출을 나타내는 막대 그래프 입니다. 
